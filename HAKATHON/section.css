@@ -1,0 +1,246 @@
+.personal-details {
+    width: 100%;
+    padding-left: 25px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.left {
+    width: 500px;
+    padding-bottom: 10px;
+}
+
+.left h4{
+    width: 120px;
+    border-bottom: 2px solid orange;
+}
+
+.left p{
+    font-size: 15px;
+    display: flex;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 25px;
+}
+.right {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.right-right {
+    font-size: 12px;
+}
+
+.experience {
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    padding-top: 60px;
+    padding-left: 120px;
+}
+
+.experience img{
+    width: 40px;
+    height: 40px;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    width: 180px;
+    height: 67px;
+    align-items: center;
+}
+
+.box1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.box2{
+    width: 180px;
+    height: 67px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    border: 0.5px solid darkgray;
+}
+
+.android {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info1 {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.my-projects{
+    padding-top: 60px;
+}
+
+.text{
+    text-align: center;
+}
+
+.text button{
+    width: 50px;
+    height: 20px;
+    font-size: 10px;
+    background-color: darkgray;
+    color: rgb(179, 255, 47);
+}
+
+.list1{
+    padding-left: 60px;
+    display: flex;
+    gap: 20px;
+}
+
+.list1 a:hover{
+    border-bottom: 1px solid blue;
+}
+
+.line{
+    width: 100%;
+    border-bottom: 1px solid darkgray;
+}
+
+.list-project1{
+    width: 100%;
+    padding: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 30px;
+    gap: 20px;
+
+}
+
+.khung{
+    height: 150px;
+    box-shadow: 3px 3px 3px darkgray;
+}
+
+.khung img{
+    width: 40px;
+    height: 40px;
+}
+
+.gap{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.but {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.p1 i{
+    color: aqua;
+}
+
+.but button{
+    width: 70px;
+    height: 30px;
+    font-size: 10px;
+    background-color: darkgrey;
+    color: rgb(0, 115, 255);
+}
+
+.list-project2{
+    padding-left: 60px;
+    padding-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.list-project2 .khung{
+    width: 353px;
+}
+
+.get-in-touch{
+    padding-left: 60px;
+    padding-top: 60px;
+    display: flex;
+    gap: 100px;
+    width: 1100px;
+    height: 650px;
+}
+
+.gap-touch{
+    width: 620px;
+}
+
+.par{
+
+}
+
+.gap-touch input{
+    width: 300px;
+    height: 40px;
+}
+
+#form1{
+    display: flex;
+    gap: 20px;
+}
+
+.form-right{
+    margin-right: 200px;
+    width: 300px;
+    height: 160px;
+}
+
+.message{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.gap-touch img{
+    width: 200px;
+    height: 200px;
+}
+.tt1 {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+    align-items: center;
+    box-shadow: 3px 3px 3px darkgray;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: end;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+
+.nut button{
+    background-color: aqua;
+    color: white;
+}
